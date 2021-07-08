@@ -1,4 +1,5 @@
 import React from 'react';
+import Faker from 'faker';
 
 const App = () => {
   return (
